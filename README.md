@@ -4,6 +4,6 @@
 App ejemplo de lista de participantes.
 
 características:
-splash screen
-login
-lista con foto
+splash screen,
+login,
+lista con foto.
