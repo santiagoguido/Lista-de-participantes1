@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista de participantes</string>
+    <string name="description_user_photo">foto del usuario</string>
+    <string name="sp_first_time">first_time</string>
+    <string name="dialog_title">Registro de usuario</string>
+    <string name="dialog_confirm">Registrar</string>
+    <string name="helper_username">Obligatorio</string>
+    <string name="hint_username">nombre de usuario</string>
+    <string name="sp_username">username</string>
+    <string name="register_success">Usuario registrado</string>
+</resources>
